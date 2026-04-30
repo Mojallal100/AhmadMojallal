@@ -1,7 +1,7 @@
 # Hi, I'm Ahmad Mojallal 👋
 
 ## About Me
-- PhD in Mathematics (Graph Theory, Machine Learning)
+- PhD in Mathematics (Graph Theory)
 - Research Associate at Simon Fraser University
 - Focus on data-driven modeling, graph learning, and large-scale network analysis
 
